@@ -1,6 +1,6 @@
 # media-player
 armbian media-player
-
+Исправление ошибок копипаст) - sed -i 's/\r$//' media-novnc.sh
 
 1. media-novnc.sh для установки самого медиаплеера на основе VLC
 
